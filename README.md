@@ -76,6 +76,9 @@
   <span>
     <img style="border-radius: 15px; margin-right: 5px;" src="https://img.shields.io/badge/-Postgres-0078AA?logo=postgresql&logoColor=white&style=for-the-badge">
   </span>
+  <span>
+    <img style="border-radius: 15px; margin-right: 5px;" src="https://img.shields.io/badge/-MongoDB-00AF68?logo=mongodb&logoColor=white&style=for-the-badge">
+  </span>
 </div>
 <br />
 
