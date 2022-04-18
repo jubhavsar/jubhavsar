@@ -23,9 +23,9 @@
  ---
 
  ### :woman_technologist: About Me :
-  I'm Jr. Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and happiest when I'm creating, learning, exploring & thinking about how to make things batter.
+  I'm Jr. Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and happiest when I'm creating, learning, exploring & thinking about how to make things better.
  
- - :telescope:  I’m looking to collaborate on Projects that will make me become a better developer!
+ - :telescope:  I’m looking forward to building something cool and learning new things along the way.
 
  - :seedling: Exploring Technical Content Writing.
 
