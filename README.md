@@ -5,7 +5,7 @@
      <a href="https://www.linkedin.com/in/juhi-bhavsar-67238273/">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
      </a>
-    <a href="https://jubhavsar.github.io/portfolio-project/" target="_blank">
+    <a href="https://jubhavsar.github.io/Portfolio/" target="_blank">
       <img style="border-radius: 15px;" src="https://img.shields.io/badge/➡%20👩‍💻%20%20My%20Web%20Page%20⬅-grey?style=for-the-badge&logo=&logoColor=black" alt="My Page"/>
     <a/>
    <a href="https://twitter.com/bhavsar_juhi">
