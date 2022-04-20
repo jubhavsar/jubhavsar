@@ -23,7 +23,7 @@
  ---
 
  ### :woman_technologist: About Me :
-  I'm Jr. Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and happiest when I'm creating, learning, exploring & thinking about how to make things better.
+  I'm Jr. a Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and happiest when I'm creating, learning, exploring & thinking about how to make things better.
  
  - :telescope:  I’m looking forward to building something cool and learning new things along the way.
 
